@@ -28,41 +28,43 @@ Individual-level microdata are NOT contained in this repository for privacy reas
 2. REPOSITORY STRUCTURE
 --------------------------------------------------------------------------------
 
+
     mie2027/
-|
-|-- README.md                          this file
-|-- LICENSE.txt                        licence for code and materials
-|-- CITATION.cff                       how to cite the paper and this repository
-|
-|-- supplement/
-|     supplement.pdf                   S1 ethics approvals, S2 all 19 tools,
-|                                      S3 AI use for diagnostics by CDSS item
-|
-|-- instrument/
-|     questionnaire_de.pdf             full questionnaire, German original
-|     questionnaire_en.pdf             full questionnaire, English translation
-|
-|-- documentation/
-|     sample_derivation.pdf            raw export (n = 403) to analytical sample (n = 363)
-|     codebook.csv                     variables used in this paper: names, coding, labels
-|
-|-- data/
-|     aggregated/
-|        s2_tool_frequencies.csv       19 tools x 6 response categories, counts
-|        cdss_by_age.csv               CDSS item by age band
-|        s3_ai_use_by_cdss.csv         AI use for diagnostics x CDSS item, overall and by age group
-|        regression_age.csv            OR per decade for "unclear", CDSS and the 18 other tools
-|
-|-- code/
-|     requirements.txt                 pinned dependency versions
-|     01_prepare_sample.py
-|     02_tool_frequencies.py
-|     03_age_models.py
-|     04_ai_crosstab.py
-|
-|-- results/
-      figure1.pdf
-      figure1.png
+    |
+    |-- README.md                          this file
+    |-- LICENSE.txt                        licence for code and materials
+    |-- CITATION.cff                       how to cite the paper and this repository
+    |
+    |-- supplement/
+    |     supplement.pdf                   S1 ethics approvals, S2 all 19 tools,
+    |                                      S3 AI use for diagnostics by CDSS item
+    |
+    |-- instrument/
+    |     questionnaire_de.pdf             full questionnaire, German original
+    |     questionnaire_en.pdf             full questionnaire, English translation
+    |
+    |-- documentation/
+    |     sample_derivation.pdf            raw export (n = 403) to analytical sample (n = 363)
+    |     codebook.csv                     variables used in this paper: names, coding, labels
+    |
+    |-- data/
+    |     aggregated/
+    |        s2_tool_frequencies.csv       19 tools x 6 response categories, counts
+    |        cdss_by_age.csv               CDSS item by age band
+    |        s3_ai_use_by_cdss.csv         AI use for diagnostics x CDSS item, overall and by age group
+    |        regression_age.csv            OR per decade for "unclear", CDSS and the 18 other tools
+    |
+    |-- code/
+    |     requirements.txt                 pinned dependency versions
+    |     01_prepare_sample.py
+    |     02_tool_frequencies.py
+    |     03_age_models.py
+    |     04_ai_crosstab.py
+    |
+    |-- results/
+          figure1.pdf
+          figure1.png
+  
 
 --------------------------------------------------------------------------------
 3. CONTENT DESCRIPTION
