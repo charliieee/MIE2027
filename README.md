@@ -69,7 +69,7 @@ Individual-level microdata are NOT contained in this repository for privacy reas
 --------------------------------------------------------------------------------
 3. CONTENT DESCRIPTION
 --------------------------------------------------------------------------------
-    **supplement/supplement.pdf**
+**supplement/supplement.pdf**
     The supplementary material referenced in the manuscript. S1: ethics
     approvals. S2: distribution of all six response categories for all 19
     digital tools. S3: cross-tabulation of AI use for diagnostic tasks against
