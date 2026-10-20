@@ -2,9 +2,9 @@
 
 AUTHORS\
     Sophie-Charlotte Perret, University of Cambridge (0009-0009-0044-4633)\
-    Jonah Siebert, University of Applied Sciences Offenburg (0009-0001-7136-1175)\
+    Jonah Siebert, Offenburg University of Applied Sciences (0009-0001-7136-1175)\
     Jan Baumann, Hartmannbund, Association of Doctors in Germany (0000-0003-3679-7341)\
-    Markus Schinle, University of Applied Sciences Offenburg (0000-0002-3132-0280)
+    Markus Schinle, Offenburg University of Applied Sciences (0000-0002-3132-0280)
 
 VERSION\
     1.1\
@@ -213,10 +213,10 @@ Individual-level microdata are NOT contained in this repository for privacy reas
 
     Corresponding Authors:
     Sophie Perret, University of Cambridge, scp64@cam.ac.uk 
-    Jonah Siebert, University of Applied Sciences Offenburg, jonah.siebert@hs-offenburg.de 
+    Jonah Siebert, Offenburg University of Applied Sciences, jonah.siebert@hs-offenburg.de 
 
     Co-Authors: 
     Jan Baumann, Hartmannbund, jan.baumann@purposehealth.de 
-    Markus Schinle, University of Applied Sciences Offenburg, markus.schinle@hs-offenburg.de 
+    Markus Schinle, Offenburg University of Applied Sciences, markus.schinle@hs-offenburg.de 
 ================================================================================
 
