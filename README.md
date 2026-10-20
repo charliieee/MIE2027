@@ -7,8 +7,8 @@ AUTHORS\
     Markus Schinle, University of Applied Sciences Offenburg (0000-0002-3132-0280)
 
 VERSION\
-    1.3\
-    Last updated: 22 September 2026 (before 22 September 2026 11:59pm HST)
+    1.1\
+    Last updated: 20 October 2026 (before 20 October 2026 11:59pm UTC+2)
 
 STATUS\
     This repository belongs to the submitted version of the short communication for the 
