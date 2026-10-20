@@ -1,4 +1,4 @@
-**Used but Not Recognised - Digital Support for Differential Diagnosis in Germany**
+# Used but Not Recognised - Digital Support for Differential Diagnosis in Germany**
 
 AUTHORS\
     Sophie-Charlotte Perret, University of Cambridge (0009-0009-0044-4633)\
