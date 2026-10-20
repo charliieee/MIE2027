@@ -1,0 +1,20 @@
+item,tool,n,n_unclear,or_unadj,ci_lo_unadj,ci_hi_unadj,p_unadj,or_adj,ci_lo_adj,ci_hi_adj,p_adj
+1,Practice/hospital information system,363,11,0.51,0.293,0.886,0.017,0.581,0.314,1.076,0.084
+2,Electronic patient record (ePA),361,2,,,,,,,,
+3,Electronic medication list/plan,360,18,0.985,0.699,1.388,0.9303,1.059,0.719,1.559,0.7728
+4,Electronic sick note (eAU),357,6,0.692,0.365,1.313,0.2601,0.88,0.45,1.72,0.7076
+5,Image viewing (PACS),360,30,1.375,1.043,1.812,0.0241,1.164,0.842,1.611,0.3582
+6,Laboratory information system,360,39,0.896,0.703,1.143,0.3772,0.9,0.68,1.19,0.4584
+7,Differential diagnosis / CDSS,361,149,0.764,0.653,0.894,0.0008,0.721,0.599,0.868,0.0005
+8,Prescribable digital health apps (DiGA),361,56,0.662,0.528,0.832,0.0004,0.769,0.592,0.999,0.0493
+9,Health apps in patient care,360,28,0.78,0.583,1.045,0.0958,0.789,0.554,1.123,0.1876
+10,Telephone assistants (scheduling),358,23,0.837,0.611,1.145,0.266,0.899,0.622,1.3,0.5724
+11,Video consultation,357,10,0.84,0.528,1.338,0.4641,0.898,0.518,1.557,0.7017
+12,"Tele-rounds (ICU, stroke unit, care home)",354,39,1.032,0.813,1.309,0.7982,0.927,0.698,1.232,0.6026
+13,Tele/home monitoring,356,40,1.131,0.894,1.431,0.306,1.089,0.83,1.428,0.5397
+14,Speech recognition for documentation,360,12,1.453,0.945,2.233,0.0887,1.187,0.713,1.976,0.5091
+15,"Digital pre-registration, emergency care",350,84,1.146,0.96,1.367,0.1314,0.976,0.791,1.205,0.8232
+16,"Patient-facing triage tools (ada, docyet)",353,143,0.913,0.783,1.066,0.2495,0.857,0.715,1.027,0.095
+17,Medication safety alerts (AMTS),357,66,0.911,0.75,1.107,0.3499,0.783,0.619,0.99,0.0409
+18,Automated duty rostering,354,56,1.044,0.85,1.281,0.682,0.985,0.774,1.253,0.9015
+19,"Knowledge resources (Amboss, Thieme)",359,17,1.903,1.272,2.848,0.0018,1.559,0.965,2.518,0.0694

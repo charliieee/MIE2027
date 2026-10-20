@@ -1,0 +1,10 @@
+level,age,n,daily_weekly,daily_weekly_pct,monthly_less,monthly_less_pct,would_like,would_like_pct,unclear,unclear_pct
+band,20-29 Jahre,27,5,18.5,9,33.3,2,7.4,11,40.7
+band,30-39 Jahre,105,10,9.5,20,19.0,19,18.1,56,53.3
+band,40-49 Jahre,59,7,11.9,11,18.6,12,20.3,29,49.2
+band,50-59 Jahre,86,6,7.0,27,31.4,23,26.7,30,34.9
+band,60-69 Jahre,65,12,18.5,16,24.6,19,29.2,18,27.7
+band,70 Jahre oder älter,19,3,15.8,6,31.6,5,26.3,5,26.3
+group,<40,132,15,11.4,29,22.0,21,15.9,67,50.8
+group,40-59,145,13,9.0,38,26.2,35,24.1,59,40.7
+group,>=60,84,15,17.9,22,26.2,24,28.6,23,27.4
